@@ -72,24 +72,34 @@ This pack contained quotes from evidence retention expert professor Carole McCar
 ## Partner usage
 
 
-Lincs Online, [Police evidence storage is letting down criminal cases](https://www.lincsonline.co.uk/rutland/news/police-evidence-storage-is-letting-down-criminal-cases-9420104/), 6 June 2025.
+* Lincs Online, [Police evidence storage is letting down criminal cases](https://www.lincsonline.co.uk/rutland/news/police-evidence-storage-is-letting-down-criminal-cases-9420104/), 6 June 2025.
 
-NN Journal, [Investigation finds thousands of criminal cases dropped due to lost or missing evidence, including in Northants](https://www.nnjournal.co.uk/p/investigation-finds-thousands-of), 6 June 2025.
+* NN Journal, [Investigation finds thousands of criminal cases dropped due to lost or missing evidence, including in Northants](https://www.nnjournal.co.uk/p/investigation-finds-thousands-of), 6 June 2025.
 
-Stoke Sentinel, [Six sex cases collapse in Staffordshire due to lost or missing evidence](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/six-sex-cases-collapse-staffordshire-10235978), 6 June 2025.
+* Stoke Sentinel, [Six sex cases collapse in Staffordshire due to lost or missing evidence](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/six-sex-cases-collapse-staffordshire-10235978), 6 June 2025.
 
-Leicester Gazette, [Leicestershire Police worst force outside London for missing evidence](https://www.leicester.news/leicestershire-police-worst-force-outside-london-for-missing-evidence/), 6 June 2025.
+* Leicester Gazette, [Leicestershire Police worst force outside London for missing evidence](https://www.leicester.news/leicestershire-police-worst-force-outside-london-for-missing-evidence/), 6 June 2025.
 
-Cambridge News, [170 Cambridgeshire Constabulary cases fall through over lost or missing evidence](https://www.cambridge-news.co.uk/news/local-news/170-cambridgeshire-constabulary-cases-fall-31794656)
+* Cambridge News, [170 Cambridgeshire Constabulary cases fall through over lost or missing evidence](https://www.cambridge-news.co.uk/news/local-news/170-cambridgeshire-constabulary-cases-fall-31794656)
 
-Dorset Echo, [More than 20 sexual offences dropped by Hampshire police](https://www.dailyecho.co.uk/news/25216183.20-sexual-offences-dropped-hampshire-police/), 6 June 2025.
+* Dorset Echo, [More than 20 sexual offences dropped by Hampshire police](https://www.dailyecho.co.uk/news/25216183.20-sexual-offences-dropped-hampshire-police/), 6 June 2025.
 
-Caerphilly Observer, [‘Missing’ police evidence sees 145 cases collapse in the Gwent area over the two years](https://caerphilly.observer/news/1050671/missing-police-evidence-sees-145-cases-collapse-in-the-gwent-area-over-the-two-years/), 6 June 2025.
+* Caerphilly Observer, [‘Missing’ police evidence sees 145 cases collapse in the Gwent area over the two years](https://caerphilly.observer/news/1050671/missing-police-evidence-sees-145-cases-collapse-in-the-gwent-area-over-the-two-years/), 6 June 2025.
 
-Island Echo, [22 SEX OFFENCE CASES DROPPED BY HAMPSHIRE POLICE DUE TO MISSING EVIDENCE](https://www.islandecho.co.uk/22-sex-offence-cases-dropped-by-hampshire-police-due-to-missing-evidence/) 6 June, 2025.
+* Island Echo, [22 SEX OFFENCE CASES DROPPED BY HAMPSHIRE POLICE DUE TO MISSING EVIDENCE](https://www.islandecho.co.uk/22-sex-offence-cases-dropped-by-hampshire-police-due-to-missing-evidence/) 6 June, 2025.
 
-Greatest Hits Radio (multiple uses), [Cases that collapsed due to 'lost or missing' evidence in Northamptonshire revealed](https://hellorayo.co.uk/greatest-hits/northamptonshire/news/cases-the-collapsed-due-to-lost-or-missing-evidence-in-northamptonshire-revealed) June 6 2025.
+* Greatest Hits Radio (multiple uses), [Cases that collapsed due to 'lost or missing' evidence in Northamptonshire revealed](https://hellorayo.co.uk/greatest-hits/northamptonshire/news/cases-the-collapsed-due-to-lost-or-missing-evidence-in-northamptonshire-revealed) June 6 2025.
 
-Chronicle Live, [Murder conspiracy and sex offences among hundreds of Northumbria Police cases collapsed due to lost or damaged evidence](https://www.chroniclelive.co.uk/news/north-east-news/northumbria-police-missing-evidence-collapse-31795738) 6 June 2025
+* Chronicle Live, [Murder conspiracy and sex offences among hundreds of Northumbria Police cases collapsed due to lost or damaged evidence](https://www.chroniclelive.co.uk/news/north-east-news/northumbria-police-missing-evidence-collapse-31795738) 6 June 2025
+
+* The Argus, [Sussex: Sexual offence prosecutions collapse due to missing evidence](https://www.theargus.co.uk/news/25217966.sussex-sexual-offence-prosecutions-collapse-due-missing-evidence/) 6 June 2025.
+
+* Birmingham Mail, [Four Midlands murder cases collapse over police evidence failures](https://www.birminghammail.co.uk/news/midlands-news/four-midlands-murder-cases-collapse-31784256) 7 June 2025.
+
+**National news coverage also included: **
+
+* The Express, [Fury as THOUSANDS of criminal cases collapse due to lost, damaged or missing evidence](https://www.express.co.uk/news/politics/2065497/Police-evidence-cases-murders-crimes)
+
+* The Telegraph, [Thousands of criminal cases collapsing every year](https://www.telegraph.co.uk/news/2025/06/06/thousands-crime-cases-collapsing-every-year-evidence-police/) 7 June 2025.
 
 
