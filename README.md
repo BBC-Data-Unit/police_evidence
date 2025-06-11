@@ -5,6 +5,8 @@ More than 30,000 prosecutions in England and Wales collapsed between October 202
 
 They included 70 homicides and more than 550 sexual offences.
 
+![Image](https://github.com/user-attachments/assets/40e83cf2-8864-4f00-8de8-ab7ef6d48355)
+
 Police chiefs said not all the cases relate to lost evidence and the figures include situations where officers may not be able to find an expert witness or get a medical statement.
 
 However, it followed a series of damning reports about how police forces are storing evidence.
