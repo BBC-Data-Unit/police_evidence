@@ -57,7 +57,6 @@ This pack contained quotes from evidence retention expert professor Carole McCar
 
 ## Our findings
 
-
 * Between October 2020 and September 2024, 30,552 prosecutions could not proceed  as a result of evidence not being collected or evidence that was contaminated, damaged or lost in the storage phase.
 
 * This roughly equates to 2% of all prosecutions.
@@ -73,6 +72,11 @@ This pack contained quotes from evidence retention expert professor Carole McCar
 
 ## Partner usage
 
+The story was used across the BBC Network including 5Live Breakfast, Today, the Six o' Clock News, Newsbeat and the Latest News playlist on BBC Sounds. Regional radio stations including BBC West Midlands and BBC Wales also ran the story with live guests.
+
+The Shared Data Unit also shares stories with a wider network of around 900 local partners. 
+
+Partner usage included: 
 
 * Lincs Online, [Police evidence storage is letting down criminal cases](https://www.lincsonline.co.uk/rutland/news/police-evidence-storage-is-letting-down-criminal-cases-9420104/), 6 June 2025.
 
