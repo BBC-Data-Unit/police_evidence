@@ -45,12 +45,51 @@ We also managed to obtain data behind an earlier study, the University of Leices
 
 ## Get the Data
 
-We created this {background briefing pack}[https://docs.google.com/document/d/1INRbHTo7BICaP6KT-8xDbOpVEBnwG20chQ9vzYlMvaE/edit?usp=sharing] with a detailed background, a full rundown of our findings and interviws and rights of responses.
+We created this [background briefing pack](https://docs.google.com/document/d/1INRbHTo7BICaP6KT-8xDbOpVEBnwG20chQ9vzYlMvaE/edit?usp=sharing) with a detailed background, a full rundown of our findings and interviws and rights of responses.
 
-And we shared this spreadsheet showing how many prosecution cases were dropped due to lost or missing evidence at every police force in England and Wales between October 2022 and September 2024 and how many of those related to sexual offences and to homicide. Please note: each data point refers to an individual defendant.
+And we shared [this spreadsheet](https://docs.google.com/spreadsheets/d/1RPiOtQZ0QbRf7jXaQHPrNnnr1t634dUzJhXSEGuIgwM/edit?usp=sharing) showing how many prosecution cases were dropped due to lost or missing evidence at every police force in England and Wales between October 2022 and September 2024 and how many of those related to sexual offences and to homicide. Please note: each data point refers to an individual defendant.
 
 It also shows how many prosecutions occurred in total during that time to put those figures in context. Please note that local data was only available between 2022 and 2024- though we obtained national figures stretching back to 2020.
 
 This pack contained quotes from evidence retention expert professor Carole McCartney as well as a right of response from the National Police Chief’s Council.  
+
+## Our findings
+
+
+* Between October 2020 and September 2024, 30,552 prosecutions could not proceed  as a result of evidence not being collected or evidence that was contaminated, damaged or lost in the storage phase.
+
+* This roughly equates to 2% of all prosecutions.
+
+* That figure includes 70 homicides and 554 sexual offences.
+
+* The most likely crime category to be affected by missing evidence was the catch-all “All Other Offences (excluding Motoring)”. However, this category includes: blackmail, perjury, perverting the course of justice, firearms offences, absconding from lawful custody, cruelty to animals and prostitution.
+
+* The Metropolitan Police saw the highest proportion of prosecutions failing as a result of un-collected, missing, damaged or lost evidence - 4.69% of all prosecutions. The force was an outlier in the data and almost twice as likely to lose crucial evidence as the nearest non-London force in the data, Leicestershire Police.
+
+* The number of prosecutions failing as a result of missing evidence has been growing year-on-year as well. A total of 7,484 prosecutions ended as a result of an E72 in the 2020-21 year, while 8,180 collapsed in 2023-24. This was matched by a proportional rise also, up from 1.84% of all prosecutions in 2020-21 to 2.08% in 2023-24.
+
+
+## Partner usage
+
+
+Lincs Online, [Police evidence storage is letting down criminal cases](https://www.lincsonline.co.uk/rutland/news/police-evidence-storage-is-letting-down-criminal-cases-9420104/), 6 June 2025.
+
+NN Journal, [Investigation finds thousands of criminal cases dropped due to lost or missing evidence, including in Northants](https://www.nnjournal.co.uk/p/investigation-finds-thousands-of), 6 June 2025.
+
+Stoke Sentinel, [Six sex cases collapse in Staffordshire due to lost or missing evidence](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/six-sex-cases-collapse-staffordshire-10235978), 6 June 2025.
+
+Leicester Gazette, [Leicestershire Police worst force outside London for missing evidence](https://www.leicester.news/leicestershire-police-worst-force-outside-london-for-missing-evidence/), 6 June 2025.
+
+Cambridge News, [170 Cambridgeshire Constabulary cases fall through over lost or missing evidence](https://www.cambridge-news.co.uk/news/local-news/170-cambridgeshire-constabulary-cases-fall-31794656)
+
+Dorset Echo, [More than 20 sexual offences dropped by Hampshire police](https://www.dailyecho.co.uk/news/25216183.20-sexual-offences-dropped-hampshire-police/), 6 June 2025.
+
+Caerphilly Observer, [‘Missing’ police evidence sees 145 cases collapse in the Gwent area over the two years](https://caerphilly.observer/news/1050671/missing-police-evidence-sees-145-cases-collapse-in-the-gwent-area-over-the-two-years/), 6 June 2025.
+
+Island Echo, [22 SEX OFFENCE CASES DROPPED BY HAMPSHIRE POLICE DUE TO MISSING EVIDENCE](https://www.islandecho.co.uk/22-sex-offence-cases-dropped-by-hampshire-police-due-to-missing-evidence/) 6 June, 2025.
+
+Greatest Hits Radio (multiple uses), [Cases that collapsed due to 'lost or missing' evidence in Northamptonshire revealed](https://hellorayo.co.uk/greatest-hits/northamptonshire/news/cases-the-collapsed-due-to-lost-or-missing-evidence-in-northamptonshire-revealed) June 6 2025.
+
+Chronicle Live, [Murder conspiracy and sex offences among hundreds of Northumbria Police cases collapsed due to lost or damaged evidence](https://www.chroniclelive.co.uk/news/north-east-news/northumbria-police-missing-evidence-collapse-31795738) 6 June 2025
 
 
