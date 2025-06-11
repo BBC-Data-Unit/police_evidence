@@ -37,15 +37,15 @@ However, the data does suggest the number of cases recorded as an E72 are increa
 
 In 2020, a total of 7,484 prosecutions collapsed because of lost, missing or damaged evidence. In 2024, that had risen by 9%, to 8,180.
 
-Methodology
+## Methodology
 
 We sent a Freedom of Information request to the CPS asking for a monthly tally of all collapsed cases with the E72 code between October 2022 and September 2024, broken down by crime type and police force.
 
 We also managed to obtain data behind an earlier study, the University of Leicester’s ‘You don’t know what you’ve got ‘til it's gone’: Police retention of investigative materials, which shows the number of E72s recorded in the two years prior to 2022. This meant we could show the national trend over the past four years alongside our local police force data for the last two years.
 
-Get the Data
+## Get the Data
 
-We created this background briefing pack with a detailed background, a full rundown of our findings and interviws and rights of responses.
+We created this (background briefing pack)[https://docs.google.com/document/d/1INRbHTo7BICaP6KT-8xDbOpVEBnwG20chQ9vzYlMvaE/edit?usp=sharing] with a detailed background, a full rundown of our findings and interviws and rights of responses.
 
 And we shared this spreadsheet showing how many prosecution cases were dropped due to lost or missing evidence at every police force in England and Wales between October 2022 and September 2024 and how many of those related to sexual offences and to homicide. Please note: each data point refers to an individual defendant.
 
