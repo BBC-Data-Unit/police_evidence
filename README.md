@@ -45,7 +45,7 @@ We also managed to obtain data behind an earlier study, the University of Leices
 
 ## Get the Data
 
-We created this (background briefing pack)[https://docs.google.com/document/d/1INRbHTo7BICaP6KT-8xDbOpVEBnwG20chQ9vzYlMvaE/edit?usp=sharing] with a detailed background, a full rundown of our findings and interviws and rights of responses.
+We created this {background briefing pack}[https://docs.google.com/document/d/1INRbHTo7BICaP6KT-8xDbOpVEBnwG20chQ9vzYlMvaE/edit?usp=sharing] with a detailed background, a full rundown of our findings and interviws and rights of responses.
 
 And we shared this spreadsheet showing how many prosecution cases were dropped due to lost or missing evidence at every police force in England and Wales between October 2022 and September 2024 and how many of those related to sexual offences and to homicide. Please note: each data point refers to an individual defendant.
 
