@@ -72,7 +72,7 @@ This pack contained quotes from evidence retention expert professor Carole McCar
 
 ## Partner usage
 
-The story was used across the BBC Network including 5Live Breakfast, Today, the Six o' Clock News, Newsbeat and the Latest News playlist on BBC Sounds. Regional radio stations including BBC West Midlands and BBC Wales also ran the story with live guests.
+The story was used across the BBC Network including 5Live Breakfast, Today, the Six o' Clock News, Newsbeat and the Latest News playlist on BBC Sounds. Regional radio stations including BBC West Midlands and BBC Wales also ran the story with live guests. An online story was read by more than 650,000 people.
 
 The Shared Data Unit also shares stories with a wider network of around 900 local partners. 
 
