@@ -55,6 +55,23 @@ It also shows how many prosecutions occurred in total during that time to put th
 
 This pack contained quotes from evidence retention expert professor Carole McCartney as well as a right of response from the National Police Chief’s Council.  
 
+## Interviews and quotes
+
+* Spokesperson, Home Office
+* Kiera, whose case was delayed by lost evidence
+* Katie Kempen, chief executive at charity Victim Support
+* Two former police officers
+* Professor Carole McCartney, a criminologist and expert in evidence retention, University of Leicester
+* Alison Fendley, director, National Forensics Archive
+* Spokesperson, National Police Chiefs' Council (NPCC)
+* University of Leicester [study](https://journals.sagepub.com/doi/10.1177/14613557231203493) into police retention of investigative materials
+* [Report](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/how-well-the-police-and-other-agencies-use-digital-forensics-in-their-investigations/), His Majesty's inspectorate of Constabulary and Fire and Rescue Services (HMICFRS)
+* Baroness Casey's [2023 review](https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/bcr/baroness-casey-review/) into the culture of the Metropolitan Police
+
+
+
+
+
 ## Our findings
 
 * Between October 2020 and September 2024, 30,552 prosecutions could not proceed  as a result of evidence not being collected or evidence that was contaminated, damaged or lost in the storage phase.
