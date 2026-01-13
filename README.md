@@ -1,5 +1,5 @@
 # Police evidence
-Thousands of criminal cases - including some of the most serious violent and sexual offences - are collapsing every year because of lost, damaged or missing evidence, ]the BBC Shared Data Unit reported](https://www.bbc.co.uk/news/articles/c3e5289d3njo) in June, 2025.
+Thousands of criminal cases - including some of the most serious violent and sexual offences - are collapsing every year because of lost, damaged or missing evidence, [the BBC Shared Data Unit reported](https://www.bbc.co.uk/news/articles/c3e5289d3njo) in June, 2025.
 
 More than 30,000 prosecutions in England and Wales collapsed between October 2020 and September 2024, data from the Crown Prosecution Service (CPS) revealed.
 
